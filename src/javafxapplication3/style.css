@@ -1,0 +1,22 @@
+
+#openFile
+{
+    -fx-background-image : url("../hell/folder.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#playButton
+{
+    -fx-background-image : url("../hell/play.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#pauseButton
+{
+    -fx-background-image : url("../hell/pause.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
